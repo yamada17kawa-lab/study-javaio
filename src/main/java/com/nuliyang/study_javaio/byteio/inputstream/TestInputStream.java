@@ -1,4 +1,4 @@
-package com.nuliyang.study_javaio.inputstream;
+package com.nuliyang.study_javaio.byteio.inputstream;
 
 
 import lombok.extern.slf4j.Slf4j;
